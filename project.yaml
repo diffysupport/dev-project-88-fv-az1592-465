@@ -1,12 +1,12 @@
 basic:
-    name: 'Mrs. Esther Jacobi III'
+    name: 'Glenda Bruen'
     breakpoints:
         - 640
         - 1024
         - 1200
     pages:
-        - 'https://www.gusikowski.com/modi-maxime-dolor-alias-iusto-velit.html'
-        - 'https://www.damore.com/et-nostrum-maiores-aut-adipisci'
+        - 'https://www.buckridge.net/laboriosam-nisi-commodi-deserunt-doloribus-iste-eaque'
+        - 'https://turcotte.com/modi-veritatis-nisi-excepturi-non'
     monitoring:
         days: {  }
         type: ''
